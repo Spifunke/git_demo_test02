@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("hello git!123456789");
         System.out.println("master test");
 
+        System.out.println("hot-fix");
     }
 }
